@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  color: green;
+}
+
+button { 
+  margin: 10px;
+  padding: 40px;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  font-weight: bolder;
+  cursor: pointer;
+}
